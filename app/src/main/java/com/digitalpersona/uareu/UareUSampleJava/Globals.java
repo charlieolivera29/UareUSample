@@ -92,7 +92,7 @@ public class Globals
 	{
 		if(result == null)
 		{
-			return "";
+			return "result null";
 		}
 		if(result.quality == null)
 		{
